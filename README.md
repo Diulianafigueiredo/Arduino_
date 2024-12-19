@@ -17,4 +17,4 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Abra o código no Arduino IDE.
 Conecte seu Arduino ao computador.
-Faça o upload do código para a placa
+Faça o upload do código para a placa.
