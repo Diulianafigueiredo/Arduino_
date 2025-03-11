@@ -9,11 +9,8 @@ Exemplos básicos para iniciantes em Arduino.
 
 *Tecnologias Utilizadas*
 Arduino IDE
-C# para comunicação e controle.
-Componentes eletrônicos como sensores, LEDs, resistores e displays.
-
-*Clone este repositório*
-git clone https://github.com/seu-usuario/seu-repositorio.git 
+C ou C++ para comunicação e controle.
+Componentes eletrônicos como sensores, LEDs, resistores e displays
 
 Abra o código no Arduino IDE.
 Conecte seu Arduino ao computador.
