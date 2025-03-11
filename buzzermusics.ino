@@ -26,7 +26,7 @@
 #define As5 932
 #define B5  988
 
-// Notas da música "Pantera Cor de Rosa"
+// Notas da música "Pantera Cor de Rosa" ou musica da sua preferencia 
 int melody[] = {E4, G4, C5, B4, E4, G4, C5, B4, E4, G4, C5, B4, G4, C5, B4, G4, C5, B4, F4, Fs4};
 int durations[] = {8, 8, 8, 4, 8, 8, 8, 4, 8, 8, 8, 4, 8, 8, 8, 8, 8, 4, 8, 8};  // Duração das notas
 
